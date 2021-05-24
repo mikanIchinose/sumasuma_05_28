@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.13.10",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "sumasuma_05_28",
+  "devDependencies": {
+    "playwright-chromium": "^1.11.1"
+  }
+}
