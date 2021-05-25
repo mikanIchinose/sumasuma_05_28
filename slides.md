@@ -180,13 +180,13 @@ vim系の話をするチャンネルが多いですが、ハードウェア(自�
 # 安心して質問ができる
 
 <div>
-  <div class="w-200 h-auto absolute left-30 border" v-click="">
+  <div class="w-200 h-auto absolute left-30" v-click="">
     <img src="https://gyazo.com/d3fd56ee529787653871a5454711bac6/raw" alt="また俺なんかやっちゃいました?">
   </div>
-  <div class="w-100 h-auto absolute right-50 top-30 border" v-click="">
+  <div class="w-100 h-auto absolute right-50 top-30" v-click="">
     <img src="/images/matanannka.png" alt="また俺なんかやっちゃいました?">
   </div>
-  <div class="w-100 h-auto absolute left-60 bottom-5 border" v-click="">
+  <div class="w-100 h-auto absolute left-60 bottom-5" v-click="">
     <img src="https://gyazo.com/9905bbc167d4ee81c50109244b7d2425/raw" alt="完全なムーブ">
   </div>
 </div>
