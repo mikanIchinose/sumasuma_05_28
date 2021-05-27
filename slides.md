@@ -251,15 +251,17 @@ Vim-jpをエンジニアの楽園と称したブログがあるんですが、�
 # ご清聴ありがとうございました
 
 <div class="flex justify-center items-center h-110">
-  <img class="h-70 mr-20" src="/images/slidev-logo.png">
   <div class="flex flex-col">
+    <img class="h-70 mr-20" src="/images/slidev-logo.png">
     <div class="text-xl text-gray-500">
       powered by Slidev(https://sli.dev)
     </div>
+  </div>
+  <div class="flex flex-col">
     <div class="w-full flex justify-center items-center mt-5">
       <div>
-      <img class="w-80" src="/images/slidev-issue.png">
-      <div class="text-gray-500 text-xs mt-2">初めてOSSにイシューを出してみました</div>
+      <img class="w-70 py-1" src="/images/slidev-issue.png">
+      <img class="w-70 py-1" src="/images/slidev-0.13.11.png">
       </div>
     </div>
   </div>
