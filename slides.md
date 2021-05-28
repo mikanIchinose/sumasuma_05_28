@@ -79,6 +79,10 @@ mikan
 
 ## vim-jp
 
+<div class="flex justify-center">
+  <img src="/images/vim-jp.png" class="w-30" />
+</div>
+
 初心者~コントリビューターまで1670人(5/21時点)ものVimに魅せられたオタクが集まる巨大コミュニティ
 
 ### Scackでの雑談が活発に行われています
