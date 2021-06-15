@@ -6,12 +6,12 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.15.0",
-    "@slidev/theme-default": "0.14.2",
-    "@slidev/theme-seriph": "0.14.1"
+    "@slidev/cli": "^0.20.4",
+    "@slidev/theme-default": "0.19.1",
+    "@slidev/theme-seriph": "0.19.1"
   },
   "name": "sumasuma_05_28",
   "devDependencies": {
-    "playwright-chromium": "^1.11.1"
+    "playwright-chromium": "^1.12.2"
   }
 }
